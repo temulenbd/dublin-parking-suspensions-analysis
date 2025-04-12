@@ -1,2 +1,3 @@
 # Exploration and Analysis of Publicly Available Data: Suspension of Parking Bays in Dublin City Council
 
+This project was conducted to demonstrate statistical skills, data manipulation, and machine learning abilities in a real-world context. The dataset used was publicly available from the Irish government website, 'data.gov.ie'. The data provides information about on-street parking bay suspensions for various events, including construction works, filming, broadcasting, loading, unloading, office moves, and more. It consists of 2,092 rows and 8 columns, covering data from the years 2006 to 2011.
