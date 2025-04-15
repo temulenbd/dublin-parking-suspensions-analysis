@@ -1,3 +1,5 @@
-# PROJECT NAME: Exploration and analysis of publicly available data: Suspension of parking bays in Dublin City Council.
+_Project Author:_ **Temuulen Bulgan**
 
-This project was conducted to demonstrate statistical skills, data manipulation, and machine learning abilities in a real-world context. The dataset used was publicly available from the Irish government website, 'data.gov.ie'. The data provides information about on-street parking bay suspensions for various events, including construction works, filming, broadcasting, loading, unloading, office moves, and more. It consists of 2,092 rows and 8 columns, covering data from the years 2006 to 2011.
+_Topic:_ **Exploration and analysis of publicly available data: Suspension of parking bays in Dublin City Council.**
+
+_Summary:_ The project showcases a complete data science workflow — including data cleaning, exploratory data analysis, and the application of machine learning models. Particular attention is given to managing real-world data quality issues, especially human input errors in categorical variables. Both regression and classification models are explored, with notable success in predicting suspension costs using supervised learning techniques, despite the dataset’s noisy nature. Overall, the work highlights practical approaches to working with imperfect public sector data.
